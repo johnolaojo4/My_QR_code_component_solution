@@ -6,11 +6,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
   - [Screenshot](#screenshot)
   - [Links](#links)
-  - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Author](#author)
-
 
 
 
