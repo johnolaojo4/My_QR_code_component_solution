@@ -26,9 +26,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Solution URL: (https://www.frontendmentor.io/solutions/qr-code-component-tagkcEnCiL)
+- Live Site URL: (https://johnolaojo4.github.io/My_QR_code_component_solution/)
 
 
 
@@ -38,10 +37,9 @@ I have learned the use of padding to some extent, but I intend to keep improving
 
 
 
-
 ### Continued development
 
-I would like to keep learning about using CSS: margin properties, box-shadow and also improve on my web responsiveness i.e media-query.
+I would like to keep learning about using CSS: margin properties and box-shadow, and also improve my web responsiveness i.e. media-query.
 
 
 ## Author
