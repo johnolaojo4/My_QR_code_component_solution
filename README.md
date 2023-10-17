@@ -34,7 +34,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-I have learnt the use or padding to some extent but i intend to keep improving and building.
+I have learned the use of padding to some extent, but I intend to keep improving and building.
 
 
 
@@ -46,6 +46,5 @@ I would like to keep learning about using CSS: margin properties, box-shadow and
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@Johnolaojo4](https://www.frontendmentor.io/profile/johnolaojo4)
 - Twitter - [@Olaojojohn2](https://twitter.com/Olaojojohn2)
